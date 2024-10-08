@@ -44,4 +44,9 @@ Pivot_Tables:
 
 Report:
 <a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/report.zip">Report</a>
-         
+
+Conclusion 
+This business dashboard provides a holistic view of sales performance, customer demographics, and 
+key trends. By leveraging Google Looker Studio and Google Sheets, the project delivers actionable 
+insights for business decision-makers, allowing them to monitor sales performance across multiple 
+dimensions and make data-driven decisions
