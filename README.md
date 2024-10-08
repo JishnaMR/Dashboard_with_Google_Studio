@@ -20,6 +20,24 @@ After cleaning and preproceesed dataset:
 
 Pivot_Tables:
 
-         1.Frequency by gender
-         <a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_frequency%20by%20gender.zip">frequency_by_gender</a>
+1.Frequency by gender:
+ <a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_frequency%20by%20gender.zip">frequency_by_gender</a>
+
+2.Mall and Sum of Total Price:
+<a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_mall_and_sumoftotalprice.zip">mall_and_sumof_total_price</a>
+
+3.Sales by age and gender:
+<a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_sale_by_age%20and_gender%20(2).zip">sales_by_age_and_gender</a>
+
+4.Sales by Payment Method:
+< href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_sale_by_payment.zip">Sales_by_Payment_Method</a>
+
+5.Sales Trend by Month:
+<a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_sale_trend_by_month.zip">Sales_Trend_by_Month</a>
+
+6.Category and sum of total price:
+<a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_category_summoftotalprice.zip">Category_sumof_Total_price</a>
+
+6.Total Sales:
+<a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_total.csv">Total</a>
          
