@@ -21,4 +21,5 @@ After cleaning and preproceesed dataset:
 Pivot_Tables:
 
          1.Frequency by gender
+         <a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_frequency%20by%20gender.zip">frequency_by_gender</a>
          
