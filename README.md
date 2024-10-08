@@ -40,4 +40,8 @@ Pivot_Tables:
 
 6.Total Sales:
 <a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_total.csv">Total</a>
+
+
+Report:
+<a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/report.zip">Report</a>
          
