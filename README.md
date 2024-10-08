@@ -30,7 +30,7 @@ Pivot_Tables:
 <a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_sale_by_age%20and_gender%20(2).zip">sales_by_age_and_gender</a>
 
 4.Sales by Payment Method:
-< href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_sale_by_payment.zip">Sales_by_Payment_Method</a>
+<a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_sale_by_payment.zip">Sales_by_Payment_Method</a>
 
 5.Sales Trend by Month:
 <a href="https://github.com/JishnaMR/Dashboard_with_Google_Studio/blob/main/pivottable_sale_trend_by_month.zip">Sales_Trend_by_Month</a>
